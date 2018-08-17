@@ -1,0 +1,18 @@
+/.vscode/
+/index.html
+/package.json
+/Game.rpgproject
+/img/*
+!/img/pictures/
+/img/pictures/*
+!/img/pictures/bat.png
+!/img/pictures/BlueSky.png
+/audio/
+# /data/
+/fonts/
+/icon/
+/movies/
+/save/
+/js/*
+!/js/plugins.js
+!/js/plugins/
